@@ -1,1 +1,1 @@
-# Geometry-Dash fully in html!
+# Fun games fully in HTML5!
